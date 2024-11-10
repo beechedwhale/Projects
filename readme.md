@@ -2,6 +2,7 @@ Connor Nov 2024
 
 AnythingLLM is an open-source application that allows users to create and run their own AI agents based on large language models.
 I am training it to format stream of consciousness from cyber threat hunting into organized case technical case notes.
+Desired end state is to match iocs/ttps to mitre t codes.
 
 Download anythingllm
 https://anythingllm.com/download
