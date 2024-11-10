@@ -46,7 +46,7 @@ user agent strings. List ALL artifacts in a bulleted list.
 Summary: give a brief summary in chronological order of what happened.
 ```
 
-Integrating Mitre Att&ck
+Integrating Mitre Att&ck ###NOT Implemented yet.
 https://github.com/quitehacker/MITRE-ATTACK-Enterprise-Matrix-in-Excel-for-SOC/blob/main/MITRE%20ATTACK%20Enterprise%20Matrix%20in%20Excel%20for%20SOC.xlsx
 
 Dowload MITRE-ATTACK-Enterprise-Matrix-in-Excel-for-SOC and select the tactics sheet and click "save and embed"
