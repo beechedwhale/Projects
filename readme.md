@@ -23,7 +23,7 @@ Agent Configuration <br/>
 
 input start prompt in workspace chat settings
 modify tempature (llm creativity) I use 0.2.
-
+ 
 Integrating Mitre Att&ck ###Not Fully Implemented Yet.
 Dowload mitre tactics.csv, import to your anythingllm workspace select the tactics sheet and click "save and embed" and pin it 
 
