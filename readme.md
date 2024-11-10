@@ -1,7 +1,7 @@
 Connor Nov 2024
 
-AnythingLLM is an open-source application that allows users to create and run their own AI agents based on large language models
-I am going to train it to write my threat hunting op notes for me
+AnythingLLM is an open-source application that allows users to create and run their own AI agents based on large language models.
+I an training it to format stream of consciousness from cyber threat hunting into organized case technical case notes.
 
 Download anythingllm
 https://anythingllm.com/download
@@ -20,3 +20,4 @@ Agent Configuration
     Workspace Agent model - llama2:latest
 
 input prompt in workspace chat settings
+modify tempature (llm creativity)
