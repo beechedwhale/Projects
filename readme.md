@@ -15,9 +15,9 @@ choose a model https://ollama.com/library I use llama2.
 ```ollama run [model]```
 
 run anythingllm desktop
-Agent Configuration
-  Workspace Agent LLM Provider - Ollama
-    Workspace Agent model - llama2:latest
+Agent Configuration <br/>
+  Workspace Agent LLM Provider - Ollama <br/>
+    Workspace Agent model - llama2:latest <br/>
 
 input prompt in workspace chat settings
 modify tempature (llm creativity) I use 0.2.
