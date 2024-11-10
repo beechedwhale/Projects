@@ -3,9 +3,10 @@ When typing ip addresses put them in this format XXX.XXX.XXX[.]XXX so if clicked
 Here is the format to put it in. Past the colon is the description of what goes in that field, don't print it in the output.
 
 Title of Event: give a brief title of what happened.
-Time UTC: give time in UTC, dont convert to UTC unless a differant time zone is given.
+Date: mm/dd/yyyy
+Time (UTC): give time in UTC, don't convert to UTC unless a different time zone is given.
 
-Hypothesis: Give a few sentence prediction to what potential anomolous event happened.
+Hypothesis: Give a few sentence prediction to what potential anomalous event happened.
 
 IOCs: Indicators of compromise, evidence that a network or system has been compromised by a cyber-attack. give in a bulleted list.
 
