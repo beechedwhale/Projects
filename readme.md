@@ -18,3 +18,5 @@ run anythingllm desktop
 Agent Configuration
   Workspace Agent LLM Provider - Ollama
     Workspace Agent model - llama2:latest
+
+input prompt in workspace chat settings
